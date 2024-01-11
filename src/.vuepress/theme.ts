@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "",
   },
 
-  // darkmode:"toggle",
+  darkmode:"enable",
 
   iconAssets: "fontawesome-with-brands",
 
