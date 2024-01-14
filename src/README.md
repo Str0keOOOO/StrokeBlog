@@ -3,32 +3,29 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-heroImage: /assets/icon/heroImage.png
-bgImage: /assets/images/bgImage.png
-heroText: Stroke's blog
+heroImage: 
+bgImage: /assets/images/home/bgImage.png
+heroText: 
 heroFullScreen: false
-tagline: Infinity
+tagline: 
 projects:
-  - icon: project
-    name: Python
-    desc: 项目详细描述
-    link: https://你的项目链接
-
-  - icon: link
+  - icon: /assets/images/home/xjtu.png
     name: 西安交通大学
-    desc: 链接详细描述
-    link: https://链接地址
+    desc: 欢迎报考西安交通大学
+    link: https://www.xjtu.edu.cn/
 
-  - icon: book
+  - icon: /assets/images/home/python.png
+    name: Python
+    desc: Welcome to Python.org
+    link: https://www.python.org/
+
+  - icon: /assets/images/home/vue.png
     name: vue
-    desc: 书籍详细描述
-    link: https://你的书籍链接
+    desc: Vue.js - 渐进式 JavaScript 框架
+    link: https://cn.vuejs.org/
 
-  - icon: article
-    name: Docker
-    desc: 文章详细描述
-    link: https://你的文章链接
+footer: "
 
-
-footer: 备案号等
+  "
+footerHtml: true
 ---

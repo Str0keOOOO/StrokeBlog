@@ -15,7 +15,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/assets/icon/logo.png",
+  logo: "/assets/images/home/logo.png",
 
   repo: "Str0keOOOO/stroke-blog",
 
