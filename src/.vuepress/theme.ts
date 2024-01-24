@@ -37,8 +37,6 @@ export default hopeTheme({
     medias: {
       BiliBili: "https://space.bilibili.com/34849697?spm_id_from=333.1007.0.0",
       GitHub: "https://github.com/Str0keOOOO",
-      QQ: "https://example.com",
-      Steam: "https://example.com",
     },
   },
 

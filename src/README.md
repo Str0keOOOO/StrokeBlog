@@ -24,8 +24,12 @@ projects:
     desc: Vue.js - 渐进式 JavaScript 框架
     link: https://cn.vuejs.org/
 
-footer: "
+footer: 
+  <img style="position:relative;top:0.4vh" src="https://www.beian.gov.cn/img/new/gongan.png" >
+  <a href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=****" target="_blank" >陕ICP备 2024023401 号</a>
+  <a>/</a>
+  <a href="https://beian.miit.gov.cn/" target="_blank">鄂公网安备 42060002000155 号</a>
 
-  "
 footerHtml: true
+copyright: false
 ---
