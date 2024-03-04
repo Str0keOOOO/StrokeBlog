@@ -12,6 +12,8 @@
   },
   "devDependencies": {
     "@vuepress/client": "2.0.0-rc.0",
+    "katex": "^0.16.9",
+    "mermaid": "^10.8.0",
     "vue": "^3.4.1",
     "vuepress": "2.0.0-rc.0",
     "vuepress-theme-hope": "2.0.0-rc.10"

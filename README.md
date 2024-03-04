@@ -11,6 +11,9 @@
 运行项目：
 
 ```powershell
+pnpm add -D katex
+pnpm add -D mermaid
+
 pnpm install
 pnpm docs:dev
 ```
