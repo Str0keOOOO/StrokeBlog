@@ -11,17 +11,14 @@
 运行项目：
 
 ```powershell
-pnpm add -D katex
-pnpm add -D mermaid
-
 pnpm install
-pnpm docs:dev
+pnpm dev
 ```
 
 生成静态网页：
 
 ```powershell
-pnpm docs:build
+pnpm build
 ```
 
 ![intro](./src/.vuepress/public/assets/images/posts/intro.png)
