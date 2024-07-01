@@ -1,6 +1,8 @@
 name: 打包vuepress项目
-
 on: push
+
+permissions: 
+  contents: write
 
 jobs:
   npm-build:
