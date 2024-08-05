@@ -2,6 +2,7 @@
 title: AutoHotkey-自动化脚本神器
 date: 2024-03-03
 icon: circle-info
+order: 1
 ---
 
 官网：[AutoHotkey](https://www.autohotkey.com/)
