@@ -22,3 +22,5 @@ pnpm build
 ```
 
 ![intro](./src/.vuepress/public/assets/images/posts/intro.png)
+
+这是一个github action流来自动生成静态网页并且部署的方法
