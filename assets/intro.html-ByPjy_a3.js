@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-DlAUqK2U.js";import{o,c as r,a as n}from"./app-B-ez65Dx.js";const l={};function s(a,e){return o(),r("div",null,e[0]||(e[0]=[n("p",null,"什么都放，用于小记。",-1)]))}const f=t(l,[["render",s],["__file","intro.html.vue"]]);export{f as default};
